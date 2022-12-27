@@ -12,7 +12,11 @@ public static void main(String[] args) {
 		
 		int c=a+b;
 		
+		int d=b-a;
+		
+		
 		System.out.println(c);
+		System.out.println(d);
 
 	}
 
