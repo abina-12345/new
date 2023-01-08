@@ -1,5 +1,3 @@
-package test;
-
 public class Class {
 	
 	
@@ -13,6 +11,10 @@ public static void main(String[] args) {
 		int c=a+b;
 		
 		System.out.println(c);
+
+		int d=a-b;
+	    System.out.println(d);
+
 
 	}
 
